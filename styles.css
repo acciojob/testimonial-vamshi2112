@@ -11,7 +11,7 @@ background-color:white;
 	marigin-bottom:15px;
 
 	}
-.testimonial h4{
+.testimonial p:last-child{
 	font-style:italic;
 	margin-top:10px;
 	text-align:right;
